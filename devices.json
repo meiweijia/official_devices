@@ -19,8 +19,10 @@
       ],
       "repositories": [
          "https://github.com/meiweijia/device_xiaomi_haydn",
-         "https://github.com/meiweijia/kernel_xiaomi_haydn",
-         "https://github.com/meiweijia/vendor_xiaomi_haydn"
+         "https://github.com/meiweijia/device_xiaomi_sm8350-common",
+         "kernel_xiaomi_haydn",
+         "https://github.com/meiweijia/vendor_xiaomi_haydn",
+         "https://github.com/meiweijia/vendor_xiaomi_sm8350-common",
       ]
    }
 ]
